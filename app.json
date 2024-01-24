@@ -1,6 +1,6 @@
 {
-    "name": "GodfatherX HERE.",
-    "logo": "https://telegra.ph/file/3ee5c13390412705edda4.jpg",
+    "name": "EBD QN HERE.",
+    "logo": "https://telegra.ph/file/a30945ab7be4b50d3960f.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/mrtosumemon/GODFATHER_SPAM2.1",
+    "repository": "https://github.com/EBD-QN/EBD-QN-SPAM-BOTS",
     "env": {
      "CMD_HNDLR": {
             "description": "Custom command handler.",
