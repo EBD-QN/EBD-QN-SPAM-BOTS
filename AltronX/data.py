@@ -130,7 +130,7 @@ RAID = [
     "𝗧𝗘𝗥𝗜 𝗠𝗔́𝗔̀𝗞𝗢 𝗞𝗛𝗨𝗟𝗘 𝗕𝗔𝗝𝗔𝗥 𝗠𝗘 𝗖𝗛𝗢𝗗 𝗗𝗔𝗟𝗔 🤣🤣💋",
 ]
 
-ALTRON = [5288547197]
+ALTRON = [1476655690]
 
 REPLYRAID = [
     "MADARCHOD",
@@ -312,7 +312,7 @@ REPLYRAID = [
     "TERI SEXY BAHEN KI CHUT OP",
 ]
 
-GROUP = [-1001869922154]
+GROUP = [-1001957663718]
 
 PORMS = [
         "https://te.legra.ph/file/a66008b78909b431fc92b.mp4",
